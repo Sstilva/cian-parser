@@ -1,0 +1,32 @@
+[
+    "https://kursk.cian.ru/cat.php?deal_type=sale&engine_version=2&offer_type=flat&region=4835&room1=1&room2=1&room3=1&room4=1&room5=1&room6=1&room9=1&sort=creation_date_desc", 
+    
+    {
+        "flag": "div", 
+        "class": "_93444fe79c--content--lXy9G"
+    }, 
+    {
+        "flag": "a", 
+        "class": "_93444fe79c--list-itemLink--BU9w6"
+    }, 
+    {
+        "flag": "h1", 
+        "class": "a10a3f92e9--title--UEAG3"
+    }, 
+    {
+        "flag": "div", 
+        "class": "a10a3f92e9--info--PZznE"
+    }, 
+    {
+    	"flag": "ul",
+    	"class": "a10a3f92e9--list--jHl8z"
+    },
+    {
+        "flag": "div", 
+        "class": "_93444fe79c--container--GyJAp"
+    }, 
+    {
+        "flag": "span", 
+        "class": "a10a3f92e9--price_value--lqIK0"
+    } 
+]
