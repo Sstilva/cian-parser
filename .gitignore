@@ -3,4 +3,4 @@ output/
 test.py
 visualizer.py
 preprocessor.py
-
+.gitignore
